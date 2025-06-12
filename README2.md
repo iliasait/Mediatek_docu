@@ -68,7 +68,7 @@ Ajout d'une règle dans le fichier .htaccess pour retourner une erreur 400 en ca
 #### Où télécharger l'application ?
 <br>
 L'application peut être récupérée sur le dépôt suivant :<br> 
-https://github.com/JeMeSuisPerdu/MediaTekDocuments <br>
+https://github.com/iliasait/Mediatek_docu <br>
 
 #### Installation et exécution de l'application
 <br>Une fois l'application téléchargée, exécutez le fichier MediatekDocument.msi pour l'installer.<br>
