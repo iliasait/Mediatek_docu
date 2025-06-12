@@ -79,4 +79,4 @@ Voici le chemin : MediaTekDocuments\MediaTekDocumentsSetup\Release<br>
 <br>
 L'API est configurée pour être utilisée directement par l'application.
 Si vous souhaitez la consulter ou l'exécuter en local, vous pouvez la récupérer sur le dépôt suivant :<br>
-https://github.com/JeMeSuisPerdu/rest_mediatekdocuments <br>
+https://github.com/iliasait/rest_mediatekdocu <br>
